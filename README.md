@@ -1,4 +1,4 @@
-# Giambellino
+# Giambellino #Lorenteggio #PianoRiqualificazione
 Qui un po' di documenti utili per districarsi nell'analisi del programma di rigenerazione urbana in Giambellino
 
 > I file sono nominati secondo la data di pubblicazione ANNO/MESE
